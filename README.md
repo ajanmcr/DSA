@@ -5,3 +5,4 @@ Java leetcode problems
   3. Find the Index of the First Occurrence in a String: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
   4. Build Array from Permutation: https://leetcode.com/problems/build-array-from-permutation/description/
   5. Running Sum of 1d Array: https://leetcode.com/problems/running-sum-of-1d-array/description/
+  6. Concatenation Of Array: https://leetcode.com/problems/concatenation-of-array/description/
