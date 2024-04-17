@@ -6,3 +6,4 @@ Java leetcode problems
   4. Build Array from Permutation: https://leetcode.com/problems/build-array-from-permutation/description/
   5. Running Sum of 1d Array: https://leetcode.com/problems/running-sum-of-1d-array/description/
   6. Concatenation Of Array: https://leetcode.com/problems/concatenation-of-array/description/
+  7. Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/description/
