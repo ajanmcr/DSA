@@ -7,3 +7,5 @@ Java leetcode problems
   5. Running Sum of 1d Array: https://leetcode.com/problems/running-sum-of-1d-array/description/
   6. Concatenation Of Array: https://leetcode.com/problems/concatenation-of-array/description/
   7. Richest Customer Wealth: https://leetcode.com/problems/richest-customer-wealth/description/
+  8. Shuffle the Array: https://leetcode.com/problems/shuffle-the-array/description/
+  9. 
