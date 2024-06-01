@@ -13,3 +13,4 @@ Java DSA problems
   11. Remove duplicates from sorted array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
   12. Remove element: https://leetcode.com/problems/remove-element/
   13. Search Insert Position: https://leetcode.com/problems/search-insert-position/
+  14. Plus One: https://leetcode.com/problems/plus-one/
