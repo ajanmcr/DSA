@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/find-peak-element/
+//https://leetcode.com/problems/peak-index-in-a-mountain-array/
 class Solution {
     public int findPeakElement(int[] nums) {
         int start = 0, end = nums.length - 1, mid;
